@@ -1,0 +1,81 @@
+.anotha-one {
+  max-width: 1000px;
+  text-align: right;
+  text-shadow: 1px 1px 5px black;
+}
+
+.App {
+  color: white;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.d-desc {
+  background-color: rgba(0,0,0,0.6);
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  text-shadow: 1px 1px 6px white;
+}
+
+.drink-info {
+  justify-content: center;
+  display: grid;
+}
+
+.n-fact {
+  font-size: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  opacity: 0.4;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+  text-decoration-line: none;
+}
+
+h1 {
+  font-size: 100px;
+  margin: 0 auto;
+  text-shadow: 5px 5px black;
+}
+
+h2 {
+  background-color: rgba(0,0,0,0.3);
+  border: 1px solid black;
+  border-radius: 5px;
+  text-shadow: 2px 2px black;
+}
+
+html {
+  background-color: black;
+  background-image: url("./components/images/drink_bg.png");
+}
+
+p {
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  max-width: 1000px;
+  position: relative;
+}
+
